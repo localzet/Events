@@ -1,0 +1,30 @@
+{
+  "name": "localzet/events",
+  "description": "Simple Events Manage Library",
+  "type": "library",
+  "keywords": [
+    "localzet",
+    "Events"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "authors": [
+    {
+      "role": "Developer",
+      "name": "Ivan Zorin",
+      "email": "creator@localzet.com",
+      "homepage": "https://github.com/localzet"
+    }
+  ],
+  "support": {
+    "email": "support@localzet.com",
+    "source": "https://github.com/localzet/Events"
+  },
+  "autoload": {
+    "psr-4": {
+      "localzet\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
